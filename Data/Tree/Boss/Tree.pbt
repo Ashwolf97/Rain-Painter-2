@@ -5,6 +5,7 @@ Objects {
   Name: "DisplayEncounter"
   Transform {
     Location {
+      Z: 400
     }
     Rotation {
     }
@@ -41,8 +42,9 @@ Objects {
   Name: "SpinObject"
   Transform {
     Location {
-      X: 2350
+      X: 1150
       Y: -1600
+      Z: 1400
     }
     Rotation {
     }

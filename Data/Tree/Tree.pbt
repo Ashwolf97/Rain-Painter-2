@@ -32,6 +32,7 @@ Objects {
   ChildIds: 11293690457948583162
   ChildIds: 1250057767017623878
   ChildIds: 10261987069843347996
+  ChildIds: 17125447521315056500
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -41,6 +42,37 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 17125447521315056500
+  Name: "Terrain"
+  Transform {
+    Location {
+      Z: -50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Terrain {
+    Material {
+      Id: 2506680319063479536
+    }
+    VoxelSize: 60.0000038
+    OctreeDepth: 5
+    GeneratorID: "DEPRECATED"
   }
 }
 Objects {
@@ -176,6 +208,9 @@ Objects {
   Name: "Boss"
   Transform {
     Location {
+      X: 150
+      Y: 2050
+      Z: 500
     }
     Rotation {
     }
@@ -200,6 +235,7 @@ Objects {
       }
     }
   }
+  Lifespan: 1
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
@@ -3479,14 +3515,16 @@ Objects {
   Name: "StormCloud"
   Transform {
     Location {
-      Z: 700
+      X: 1700
+      Y: 650
+      Z: 10
     }
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: -5.25
+      Y: -2.5
+      Z: 361
     }
   }
   ParentId: 4781671109827199097

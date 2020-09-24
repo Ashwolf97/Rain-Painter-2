@@ -1,6 +1,337 @@
 ﻿Name: "Objects"
 RootId: 16990012671700417463
 Objects {
+  Id: 11602693865607905599
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: -1200
+      Y: 5100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 15485650350471283724
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        G: 0.590000033
+        B: 0.0507948436
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 153392749392475039
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12882101794162349044
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: 300
+      Y: 4750
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 15485650350471283724
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        R: 0.0428475142
+        G: 1
+        B: 0.0299999714
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 153392749392475039
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11116608587515164794
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: -5350
+      Y: -2950
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 15485650350471283724
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        G: 0.909999967
+        B: 0.0241060909
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 153392749392475039
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10228007368148689574
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: 3250
+      Y: 3800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 15485650350471283724
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        G: 0.590000033
+        B: 0.0507948436
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 153392749392475039
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14985257894801504017
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: 650
+      Y: 5650
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 15485650350471283724
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        G: 0.590000033
+        B: 0.0507948436
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 153392749392475039
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3306886919570211510
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: 3350
+      Y: 5050
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15716646451810925125
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 8971007613765797971
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        R: 0.0466225147
+        G: 0.220000029
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14916840639467030589
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 11309134190704573901
   Name: "Obstacles3"
   Transform {
@@ -303,9 +634,9 @@ Objects {
       Z: -950
     }
     Rotation {
-      Pitch: -29.9369831
+      Pitch: -29.9369812
       Yaw: 25.5750523
-      Roll: -1.49160838
+      Roll: -1.49160767
     }
     Scale {
       X: 1
@@ -344,194 +675,11 @@ Objects {
   }
 }
 Objects {
-  Id: 5890978783547597500
-  Name: "Rock Pile 002"
-  Transform {
-    Location {
-      X: 1350
-      Y: -2550
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16990012671700417463
-  ChildIds: 17166037311622954913
-  ChildIds: 10556045544406481260
-  ChildIds: 8517235192246314870
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11443786575812268026
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 8517235192246314870
-  Name: "Rock Pile 002"
-  Transform {
-    Location {
-      X: 1000
-      Y: 4400
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5890978783547597500
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11443786575812268026
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 10556045544406481260
-  Name: "Rock Pile 002"
-  Transform {
-    Location {
-      X: -2050
-      Y: -400
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5890978783547597500
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11443786575812268026
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 17166037311622954913
-  Name: "Rock Pile 002"
-  Transform {
-    Location {
-      X: -3350
-      Y: 4100
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5890978783547597500
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11443786575812268026
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
   Id: 5393499393567844726
   Name: "Rock 01"
   Transform {
     Location {
-      X: -2100
+      X: 5150
       Y: 300
       Z: 150
     }
@@ -544,7 +692,6 @@ Objects {
     }
   }
   ParentId: 16990012671700417463
-  ChildIds: 5236324089052710449
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -581,8 +728,9 @@ Objects {
   Name: "Rock 01"
   Transform {
     Location {
-      X: 550
-      Y: -2250
+      X: -2800
+      Y: -1950
+      Z: 150
     }
     Rotation {
     }
@@ -592,7 +740,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5393499393567844726
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -625,12 +773,192 @@ Objects {
   }
 }
 Objects {
+  Id: 5890978783547597500
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: 1350
+      Y: -3100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11443786575812268026
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10556045544406481260
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: -700
+      Y: -3900
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11443786575812268026
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8517235192246314870
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: 3150
+      Y: 900
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11443786575812268026
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17166037311622954913
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: -2600
+      Y: -500
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11443786575812268026
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 8964099742068237847
   Name: "Rock Flat 01"
   Transform {
     Location {
       X: -2550
-      Y: -4900
+      Y: -6000
       Z: 50
     }
     Rotation {
@@ -642,11 +970,6 @@ Objects {
     }
   }
   ParentId: 16990012671700417463
-  ChildIds: 15977649985839939652
-  ChildIds: 17505514610816522200
-  ChildIds: 2373471035552095445
-  ChildIds: 8082092932888096459
-  ChildIds: 16586024670381151863
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -680,9 +1003,8 @@ Objects {
   Name: "Rock Flat 02"
   Transform {
     Location {
-      X: 6950
-      Y: 7250
-      Z: -50
+      X: 5250
+      Y: 2350
     }
     Rotation {
     }
@@ -692,7 +1014,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8964099742068237847
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -726,8 +1048,9 @@ Objects {
   Name: "Rock Flat 01"
   Transform {
     Location {
-      X: 6400
-      Y: 10150
+      X: 5350
+      Y: 5250
+      Z: 50
     }
     Rotation {
     }
@@ -737,7 +1060,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8964099742068237847
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -771,8 +1094,9 @@ Objects {
   Name: "Rock Flat 01"
   Transform {
     Location {
-      X: 6900
-      Y: 3150
+      X: 5500
+      Y: -1750
+      Z: 50
     }
     Rotation {
     }
@@ -782,7 +1106,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8964099742068237847
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -816,7 +1140,9 @@ Objects {
   Name: "Rock Flat 01"
   Transform {
     Location {
-      X: 4950
+      X: 2400
+      Y: -5900
+      Z: 50
     }
     Rotation {
     }
@@ -826,7 +1152,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8964099742068237847
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -860,7 +1186,9 @@ Objects {
   Name: "Rock Flat 01"
   Transform {
     Location {
-      Y: 10400
+      X: -3850
+      Y: 5500
+      Z: 50
     }
     Rotation {
     }
@@ -870,7 +1198,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8964099742068237847
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -904,7 +1232,7 @@ Objects {
   Name: "Rock 03"
   Transform {
     Location {
-      X: -4950
+      X: -4350
       Y: 150
       Z: 100
     }
@@ -917,13 +1245,6 @@ Objects {
     }
   }
   ParentId: 16990012671700417463
-  ChildIds: 15684960762604917341
-  ChildIds: 4577234651508549590
-  ChildIds: 8156730161523240747
-  ChildIds: 5825993802630788859
-  ChildIds: 2818086467717549962
-  ChildIds: 14087820400004446080
-  ChildIds: 2176235796977294121
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -960,8 +1281,9 @@ Objects {
   Name: "Rock 03"
   Transform {
     Location {
-      X: 9450
-      Y: 3500
+      X: 5350
+      Y: 3650
+      Z: 100
     }
     Rotation {
     }
@@ -971,7 +1293,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2850608034212743462
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -1008,8 +1330,9 @@ Objects {
   Name: "Rock 03"
   Transform {
     Location {
-      X: 8250
-      Y: -5100
+      X: 3300
+      Y: -5950
+      Z: 100
     }
     Rotation {
     }
@@ -1019,7 +1342,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2850608034212743462
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -1056,8 +1379,9 @@ Objects {
   Name: "Rock 03"
   Transform {
     Location {
-      X: 9400
-      Y: -5400
+      X: 4450
+      Y: -5700
+      Z: 100
     }
     Rotation {
     }
@@ -1067,7 +1391,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2850608034212743462
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -1104,8 +1428,9 @@ Objects {
   Name: "Rock 03"
   Transform {
     Location {
-      X: 4950
-      Y: -5400
+      X: 650
+      Y: -6050
+      Z: 100
     }
     Rotation {
     }
@@ -1115,7 +1440,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2850608034212743462
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -1152,8 +1477,9 @@ Objects {
   Name: "Rock 03"
   Transform {
     Location {
-      X: 1150
-      Y: -3750
+      X: -4600
+      Y: -4950
+      Z: 100
     }
     Rotation {
     }
@@ -1163,7 +1489,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2850608034212743462
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -1200,8 +1526,9 @@ Objects {
   Name: "Rock 03"
   Transform {
     Location {
-      X: 400
-      Y: -2100
+      X: -4550
+      Y: -1950
+      Z: 100
     }
     Rotation {
     }
@@ -1211,7 +1538,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2850608034212743462
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -1248,7 +1575,9 @@ Objects {
   Name: "Rock 03"
   Transform {
     Location {
-      Y: 4700
+      X: -4950
+      Y: 4850
+      Z: 100
     }
     Rotation {
     }
@@ -1258,7 +1587,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2850608034212743462
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -1295,7 +1624,7 @@ Objects {
   Name: "Bush 01"
   Transform {
     Location {
-      X: -2100
+      X: -2700
       Y: 1000
     }
     Rotation {
@@ -1307,14 +1636,6 @@ Objects {
     }
   }
   ParentId: 16990012671700417463
-  ChildIds: 10668343117399506592
-  ChildIds: 7389534698891926584
-  ChildIds: 6639966006592037887
-  ChildIds: 10553764513887721192
-  ChildIds: 6952290995738194008
-  ChildIds: 9489162700387868340
-  ChildIds: 11286413361944320887
-  ChildIds: 14296759180328107632
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -1357,8 +1678,8 @@ Objects {
   Name: "Bush 01"
   Transform {
     Location {
-      X: 4550
-      Y: 4250
+      X: 2100
+      Y: 5800
     }
     Rotation {
     }
@@ -1368,7 +1689,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13918316311371946063
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -1411,8 +1732,8 @@ Objects {
   Name: "Bush 01"
   Transform {
     Location {
-      X: 6500
-      Y: -5300
+      X: 5800
+      Y: -5200
     }
     Rotation {
     }
@@ -1422,7 +1743,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13918316311371946063
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -1465,8 +1786,8 @@ Objects {
   Name: "Bush 01"
   Transform {
     Location {
-      X: 4350
-      Y: 1750
+      X: 2450
+      Y: 2750
     }
     Rotation {
     }
@@ -1476,7 +1797,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13918316311371946063
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -1519,8 +1840,8 @@ Objects {
   Name: "Bush 01"
   Transform {
     Location {
-      X: 4550
-      Y: -1450
+      X: 3100
+      Y: -450
     }
     Rotation {
     }
@@ -1530,7 +1851,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13918316311371946063
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -1573,8 +1894,8 @@ Objects {
   Name: "Bush 01"
   Transform {
     Location {
-      X: 3850
-      Y: -3000
+      X: 2450
+      Y: -2000
     }
     Rotation {
     }
@@ -1584,7 +1905,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13918316311371946063
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -1627,8 +1948,8 @@ Objects {
   Name: "Bush 01"
   Transform {
     Location {
-      X: 750
-      Y: -3500
+      X: -1950
+      Y: -2500
     }
     Rotation {
     }
@@ -1638,7 +1959,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13918316311371946063
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -1681,8 +2002,8 @@ Objects {
   Name: "Bush 01"
   Transform {
     Location {
-      X: 3400
-      Y: 2750
+      X: 1600
+      Y: 4350
       Z: 50
     }
     Rotation {
@@ -1693,7 +2014,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13918316311371946063
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -1736,8 +2057,8 @@ Objects {
   Name: "Bush 01"
   Transform {
     Location {
-      X: 800
-      Y: 1850
+      X: -2350
+      Y: 2850
       Z: 50
     }
     Rotation {
@@ -1748,7 +2069,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13918316311371946063
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -1803,25 +2124,6 @@ Objects {
     }
   }
   ParentId: 16990012671700417463
-  ChildIds: 80342122887664083
-  ChildIds: 822186416535917564
-  ChildIds: 10536778168527855640
-  ChildIds: 372599827070718375
-  ChildIds: 17359563525540687638
-  ChildIds: 10582359044279005423
-  ChildIds: 12811493810192199611
-  ChildIds: 7531430836369294471
-  ChildIds: 16162975342810730970
-  ChildIds: 1517413119625968220
-  ChildIds: 16060145289162429311
-  ChildIds: 17594131875399338089
-  ChildIds: 9423623100414859168
-  ChildIds: 12138970607077656123
-  ChildIds: 1016361957172796059
-  ChildIds: 16408437707544725398
-  ChildIds: 12515057056062650196
-  ChildIds: 3018000120259927822
-  ChildIds: 4730965070815214328
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1870,8 +2172,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: -2650
-      Y: -7950
+      X: -5450
+      Y: -3600
     }
     Rotation {
     }
@@ -1881,7 +2183,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1930,8 +2232,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: -2750
-      Y: -9300
+      X: -5300
+      Y: -5500
     }
     Rotation {
     }
@@ -1941,7 +2243,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1990,8 +2292,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: 5500
-      Y: -6950
+      X: 5550
+      Y: -4050
     }
     Rotation {
     }
@@ -2001,7 +2303,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2050,8 +2352,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: 4800
-      Y: -8700
+      X: 3750
+      Y: -4350
     }
     Rotation {
     }
@@ -2061,7 +2363,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2110,8 +2412,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: 5900
-      Y: -200
+      X: 4800
+      Y: 4150
     }
     Rotation {
     }
@@ -2121,7 +2423,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2170,8 +2472,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: 4500
-      Y: -3150
+      X: 3350
+      Y: 1200
     }
     Rotation {
     }
@@ -2181,7 +2483,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2230,8 +2532,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: 5900
-      Y: -5350
+      X: 3950
+      Y: -1000
     }
     Rotation {
     }
@@ -2241,7 +2543,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2290,8 +2592,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: 3350
-      Y: -8900
+      X: 2200
+      Y: -4550
     }
     Rotation {
     }
@@ -2301,7 +2603,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2350,8 +2652,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: 1250
-      Y: -8900
+      X: -700
+      Y: -4550
     }
     Rotation {
     }
@@ -2361,7 +2663,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2410,8 +2712,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: -600
-      Y: -8250
+      X: -4050
+      Y: -3450
     }
     Rotation {
     }
@@ -2421,7 +2723,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2470,8 +2772,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: -1050
-      Y: -8450
+      X: -3000
+      Y: -4950
     }
     Rotation {
     }
@@ -2481,7 +2783,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2530,8 +2832,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: -2600
-      Y: -5350
+      X: -5150
+      Y: 2350
     }
     Rotation {
     }
@@ -2541,7 +2843,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2590,8 +2892,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: -1800
-      Y: -700
+      X: -3750
+      Y: 3650
     }
     Rotation {
     }
@@ -2601,7 +2903,7 @@ Objects {
       Z: 0.75
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2650,8 +2952,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: 400
-      Y: -9200
+      X: -1000
+      Y: -5750
     }
     Rotation {
     }
@@ -2661,7 +2963,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2710,8 +3012,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: -1600
-      Y: -7000
+      X: 5600
+      Y: -850
     }
     Rotation {
     }
@@ -2721,7 +3023,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2770,8 +3072,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: 2200
-      Y: -7300
+      X: 250
+      Y: -3400
     }
     Rotation {
     }
@@ -2781,7 +3083,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2830,7 +3132,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      Y: -5400
+      X: -5200
+      Y: -1050
     }
     Rotation {
     }
@@ -2840,7 +3143,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2889,8 +3192,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: -1600
-      Y: -3100
+      X: -4750
+      Y: 1250
     }
     Rotation {
     }
@@ -2900,7 +3203,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2949,8 +3252,8 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: 200
-      Y: -2450
+      X: -2550
+      Y: 1900
     }
     Rotation {
     }
@@ -2960,7 +3263,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15911638130342547218
+  ParentId: 16990012671700417463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3009,8 +3312,8 @@ Objects {
   Name: "Bush 01"
   Transform {
     Location {
-      X: -1000
-      Y: 3550
+      X: 4900
+      Y: 1250
     }
     Rotation {
     }
@@ -3021,282 +3324,6 @@ Objects {
     }
   }
   ParentId: 16990012671700417463
-  ChildIds: 10228007368148689574
-  ChildIds: 11116608587515164794
-  ChildIds: 12882101794162349044
-  ChildIds: 11602693865607905599
-  ChildIds: 14985257894801504017
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Nature_Leaves:id"
-      AssetReference {
-        Id: 15485650350471283724
-      }
-    }
-    Overrides {
-      Name: "ma:Nature_Leaves:color"
-      Color {
-        G: 0.590000033
-        B: 0.0507948436
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 153392749392475039
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 14985257894801504017
-  Name: "Bush 01"
-  Transform {
-    Location {
-      X: 1650
-      Y: 1300
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13299722267019044257
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Nature_Leaves:id"
-      AssetReference {
-        Id: 15485650350471283724
-      }
-    }
-    Overrides {
-      Name: "ma:Nature_Leaves:color"
-      Color {
-        G: 0.590000033
-        B: 0.0507948436
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 153392749392475039
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 11602693865607905599
-  Name: "Bush 01"
-  Transform {
-    Location {
-      X: -200
-      Y: 1150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13299722267019044257
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Nature_Leaves:id"
-      AssetReference {
-        Id: 15485650350471283724
-      }
-    }
-    Overrides {
-      Name: "ma:Nature_Leaves:color"
-      Color {
-        G: 0.590000033
-        B: 0.0507948436
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 153392749392475039
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 12882101794162349044
-  Name: "Bush 01"
-  Transform {
-    Location {
-      X: 1300
-      Y: 500
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13299722267019044257
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Nature_Leaves:id"
-      AssetReference {
-        Id: 15485650350471283724
-      }
-    }
-    Overrides {
-      Name: "ma:Nature_Leaves:color"
-      Color {
-        R: 0.0428475142
-        G: 1
-        B: 0.0299999714
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 153392749392475039
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 11116608587515164794
-  Name: "Bush 01"
-  Transform {
-    Location {
-      X: 150
-      Y: 250
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13299722267019044257
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Nature_Leaves:id"
-      AssetReference {
-        Id: 15485650350471283724
-      }
-    }
-    Overrides {
-      Name: "ma:Nature_Leaves:color"
-      Color {
-        G: 0.909999967
-        B: 0.0241060909
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 153392749392475039
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 10228007368148689574
-  Name: "Bush 01"
-  Transform {
-    Location {
-      X: 1450
-      Y: 400
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13299722267019044257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"

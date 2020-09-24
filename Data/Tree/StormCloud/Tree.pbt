@@ -43,15 +43,15 @@ Objects {
   Transform {
     Location {
       X: 600
-      Y: -1000
-      Z: 1250
+      Y: 1080
+      Z: 10.664813
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -17
+      Y: -40.0000038
+      Z: -106
     }
   }
   ParentId: 2996017300248824774
@@ -93,13 +93,14 @@ Objects {
   Name: "Swirling Dust VFX"
   Transform {
     Location {
-      Y: 1650
-      Z: -900
+      X: 257
+      Y: -300
     }
     Rotation {
     }
     Scale {
-      X: -9
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -152,14 +153,14 @@ Objects {
   Name: "Swirling Dust VFX"
   Transform {
     Location {
-      X: 218700
-      Y: 1650
-      Z: -900
+      X: 238.095245
+      Y: 460
     }
     Rotation {
     }
     Scale {
-      X: -9
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -212,14 +213,15 @@ Objects {
   Name: "Swirling Dust VFX"
   Transform {
     Location {
-      X: -1.27575e+06
-      Y: 1650
-      Z: -900
+      X: 260
+      Y: -460
+      Z: 2.99999952
     }
     Rotation {
     }
     Scale {
-      X: -9
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -272,14 +274,15 @@ Objects {
   Name: "Swirling Dust VFX"
   Transform {
     Location {
-      X: 700
-      Y: 2250
-      Z: -1000
+      X: 260
+      Y: 700
+      Z: 3
     }
     Rotation {
     }
     Scale {
-      X: -9
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -332,13 +335,15 @@ Objects {
   Name: "Swirling Dust VFX"
   Transform {
     Location {
-      X: 150
+      X: 260
       Y: 750
+      Z: 7.99999857
     }
     Rotation {
     }
     Scale {
-      X: -9
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -391,14 +396,15 @@ Objects {
   Name: "Swirling Dust VFX"
   Transform {
     Location {
-      X: 400
-      Y: -100
-      Z: 50
+      X: -40
+      Y: -400
+      Z: 8
     }
     Rotation {
     }
     Scale {
-      X: -9
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -451,14 +457,15 @@ Objects {
   Name: "Swirling Dust VFX"
   Transform {
     Location {
-      X: -200
-      Y: -450
-      Z: -50
+      X: 200
+      Y: 400
+      Z: 11
     }
     Rotation {
     }
     Scale {
-      X: -9
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -511,14 +518,15 @@ Objects {
   Name: "Swirling Dust VFX"
   Transform {
     Location {
-      X: -250
-      Y: 900
-      Z: -100
+      X: -15
+      Y: -400
+      Z: 11
     }
     Rotation {
     }
     Scale {
-      X: -9
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -548,6 +556,7 @@ Objects {
       }
     }
   }
+  Lifespan: 1
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -571,16 +580,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: 450
-      Y: 2250
-      Z: 900
+      X: -19.0476074
+      Y: 60
+      Z: 10.0831032
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -622,16 +630,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: 1200
-      Y: 450
-      Z: 550
+      X: 485.714386
+      Y: 200
+      Z: 10.4986153
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -673,16 +680,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: 750
-      Y: -700
-      Z: -850
+      X: -142.857147
+      Y: 660
+      Z: 7.72853374
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -723,16 +729,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: 200
-      Y: 1900
-      Z: -700
+      X: 228.571518
+      Y: 600
+      Z: 10.9141273
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -773,16 +778,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: -1000
-      Y: -650
-      Z: 300
+      X: 457.142914
+      Y: 940
+      Z: 10.3601112
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -824,16 +828,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: -750
-      Y: -800
-      Z: 1300
+      X: 38.0952301
+      Y: -100
+      Z: 3.43489623
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -875,16 +878,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: -550.000122
-      Y: 1350
-      Z: 1200
+      X: 466.666687
+      Y: 140
+      Z: 7.59002924
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -926,16 +928,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: 500
-      Y: -1000
-      Z: 900
+      X: 57.1428528
+      Y: 560
+      Z: 10
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -977,16 +978,14 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: 1350
-      Y: 1250
-      Z: 1350
+      Y: 960
+      Z: 11
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -1028,16 +1027,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: 250
-      Y: 1250
-      Z: 900
+      X: 571.428589
+      Y: 660
+      Z: 7
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -1079,16 +1077,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: 250
-      Y: -150
-      Z: 900
+      X: 295.238159
+      Y: 1060
+      Z: 8.5
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -7
+      Y: -7
     }
   }
   ParentId: 2996017300248824774
@@ -1130,16 +1127,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: 200
-      Y: -1200
-      Z: -700
+      X: 342.857178
+      Y: -80
+      Z: 7.5
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -1180,16 +1176,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: -1100
+      X: 476.190521
       Y: 450
-      Z: -550
+      Z: 8
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -1230,16 +1225,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: 1350
-      Y: 450
-      Z: -550
+      X: 419.047668
+      Y: 960
+      Z: 9
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
@@ -1280,16 +1274,15 @@ Objects {
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
-      X: -800
-      Y: -300
-      Z: 400
+      X: 380.951965
+      Y: 200
+      Z: 10
     }
     Rotation {
     }
     Scale {
-      X: 15.75
-      Y: 10
-      Z: 12.5
+      X: -4
+      Y: -5
     }
   }
   ParentId: 2996017300248824774
